@@ -1,0 +1,567 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		ABAEEEE32DD4EC4B00A5330C /* MyCatholicPrayers.icns in Resources */ = {isa = PBXBuildFile; fileRef = ABAEEEE22DD4EC4B00A5330C /* MyCatholicPrayers.icns */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		AB4DFD6B2DC8022A0063CDB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AB4DFD542DC802280063CDB8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AB4DFD5B2DC802280063CDB8;
+			remoteInfo = "My Catholic Prayers";
+		};
+		AB4DFD752DC8022A0063CDB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AB4DFD542DC802280063CDB8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AB4DFD5B2DC802280063CDB8;
+			remoteInfo = "My Catholic Prayers";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		AB38998C2DCE5C9200DDA949 /* infant-of-prague-novena.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = "infant-of-prague-novena.json"; path = "My Catholic Prayers/Data/Novenas/infant-of-prague-novena.json"; sourceTree = "<group>"; };
+		AB38998D2DCE5CD200DDA949 /* our-lady-of-hope-novena.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = "our-lady-of-hope-novena.json"; path = "My Catholic Prayers/Data/Novenas/our-lady-of-hope-novena.json"; sourceTree = "<group>"; };
+		AB4DFD5C2DC802280063CDB8 /* My Catholic Prayers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "My Catholic Prayers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB4DFD6A2DC8022A0063CDB8 /* My Catholic PrayersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "My Catholic PrayersTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB4DFD742DC8022A0063CDB8 /* My Catholic PrayersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "My Catholic PrayersUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ABAEEEE22DD4EC4B00A5330C /* MyCatholicPrayers.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = MyCatholicPrayers.icns; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		AB4DFD5E2DC802280063CDB8 /* My Catholic Prayers */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "My Catholic Prayers";
+			sourceTree = "<group>";
+		};
+		AB4DFD6D2DC8022A0063CDB8 /* My Catholic PrayersTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "My Catholic PrayersTests";
+			sourceTree = "<group>";
+		};
+		AB4DFD772DC8022A0063CDB8 /* My Catholic PrayersUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "My Catholic PrayersUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AB4DFD592DC802280063CDB8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB4DFD672DC8022A0063CDB8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB4DFD712DC8022A0063CDB8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AB4DFD532DC802280063CDB8 = {
+			isa = PBXGroup;
+			children = (
+				AB38998D2DCE5CD200DDA949 /* our-lady-of-hope-novena.json */,
+				AB38998C2DCE5C9200DDA949 /* infant-of-prague-novena.json */,
+				AB4DFD5E2DC802280063CDB8 /* My Catholic Prayers */,
+				AB4DFD6D2DC8022A0063CDB8 /* My Catholic PrayersTests */,
+				AB4DFD772DC8022A0063CDB8 /* My Catholic PrayersUITests */,
+				AB4DFD5D2DC802280063CDB8 /* Products */,
+				ABAEEEE22DD4EC4B00A5330C /* MyCatholicPrayers.icns */,
+			);
+			sourceTree = "<group>";
+		};
+		AB4DFD5D2DC802280063CDB8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AB4DFD5C2DC802280063CDB8 /* My Catholic Prayers.app */,
+				AB4DFD6A2DC8022A0063CDB8 /* My Catholic PrayersTests.xctest */,
+				AB4DFD742DC8022A0063CDB8 /* My Catholic PrayersUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AB4DFD5B2DC802280063CDB8 /* My Catholic Prayers */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AB4DFD7E2DC8022A0063CDB8 /* Build configuration list for PBXNativeTarget "My Catholic Prayers" */;
+			buildPhases = (
+				AB4DFD582DC802280063CDB8 /* Sources */,
+				AB4DFD592DC802280063CDB8 /* Frameworks */,
+				AB4DFD5A2DC802280063CDB8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				AB4DFD5E2DC802280063CDB8 /* My Catholic Prayers */,
+			);
+			name = "My Catholic Prayers";
+			packageProductDependencies = (
+			);
+			productName = "My Catholic Prayers";
+			productReference = AB4DFD5C2DC802280063CDB8 /* My Catholic Prayers.app */;
+			productType = "com.apple.product-type.application";
+		};
+		AB4DFD692DC8022A0063CDB8 /* My Catholic PrayersTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AB4DFD812DC8022A0063CDB8 /* Build configuration list for PBXNativeTarget "My Catholic PrayersTests" */;
+			buildPhases = (
+				AB4DFD662DC8022A0063CDB8 /* Sources */,
+				AB4DFD672DC8022A0063CDB8 /* Frameworks */,
+				AB4DFD682DC8022A0063CDB8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AB4DFD6C2DC8022A0063CDB8 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				AB4DFD6D2DC8022A0063CDB8 /* My Catholic PrayersTests */,
+			);
+			name = "My Catholic PrayersTests";
+			packageProductDependencies = (
+			);
+			productName = "My Catholic PrayersTests";
+			productReference = AB4DFD6A2DC8022A0063CDB8 /* My Catholic PrayersTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		AB4DFD732DC8022A0063CDB8 /* My Catholic PrayersUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AB4DFD842DC8022A0063CDB8 /* Build configuration list for PBXNativeTarget "My Catholic PrayersUITests" */;
+			buildPhases = (
+				AB4DFD702DC8022A0063CDB8 /* Sources */,
+				AB4DFD712DC8022A0063CDB8 /* Frameworks */,
+				AB4DFD722DC8022A0063CDB8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AB4DFD762DC8022A0063CDB8 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				AB4DFD772DC8022A0063CDB8 /* My Catholic PrayersUITests */,
+			);
+			name = "My Catholic PrayersUITests";
+			packageProductDependencies = (
+			);
+			productName = "My Catholic PrayersUITests";
+			productReference = AB4DFD742DC8022A0063CDB8 /* My Catholic PrayersUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AB4DFD542DC802280063CDB8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					AB4DFD5B2DC802280063CDB8 = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					AB4DFD692DC8022A0063CDB8 = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = AB4DFD5B2DC802280063CDB8;
+					};
+					AB4DFD732DC8022A0063CDB8 = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = AB4DFD5B2DC802280063CDB8;
+					};
+				};
+			};
+			buildConfigurationList = AB4DFD572DC802280063CDB8 /* Build configuration list for PBXProject "My Catholic Prayers" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AB4DFD532DC802280063CDB8;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = AB4DFD5D2DC802280063CDB8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AB4DFD5B2DC802280063CDB8 /* My Catholic Prayers */,
+				AB4DFD692DC8022A0063CDB8 /* My Catholic PrayersTests */,
+				AB4DFD732DC8022A0063CDB8 /* My Catholic PrayersUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AB4DFD5A2DC802280063CDB8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ABAEEEE32DD4EC4B00A5330C /* MyCatholicPrayers.icns in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB4DFD682DC8022A0063CDB8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB4DFD722DC8022A0063CDB8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AB4DFD582DC802280063CDB8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB4DFD662DC8022A0063CDB8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB4DFD702DC8022A0063CDB8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		AB4DFD6C2DC8022A0063CDB8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AB4DFD5B2DC802280063CDB8 /* My Catholic Prayers */;
+			targetProxy = AB4DFD6B2DC8022A0063CDB8 /* PBXContainerItemProxy */;
+		};
+		AB4DFD762DC8022A0063CDB8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AB4DFD5B2DC802280063CDB8 /* My Catholic Prayers */;
+			targetProxy = AB4DFD752DC8022A0063CDB8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		AB4DFD7C2DC8022A0063CDB8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = F834LV38QX;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AB4DFD7D2DC8022A0063CDB8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = F834LV38QX;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		AB4DFD7F2DC8022A0063CDB8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "My Catholic Prayers/My_Catholic_Prayers.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = F834LV38QX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Sullivan-Market-LLC.My-Catholic-Prayersv";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		AB4DFD802DC8022A0063CDB8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "My Catholic Prayers/My_Catholic_Prayers.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = F834LV38QX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Sullivan-Market-LLC.My-Catholic-Prayersv";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		AB4DFD822DC8022A0063CDB8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = F834LV38QX;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Sullivan-Market-LLC.My-Catholic-PrayersTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/My Catholic Prayers.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/My Catholic Prayers";
+			};
+			name = Debug;
+		};
+		AB4DFD832DC8022A0063CDB8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = F834LV38QX;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Sullivan-Market-LLC.My-Catholic-PrayersTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/My Catholic Prayers.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/My Catholic Prayers";
+			};
+			name = Release;
+		};
+		AB4DFD852DC8022A0063CDB8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = F834LV38QX;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Sullivan-Market-LLC.My-Catholic-PrayersUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "My Catholic Prayers";
+			};
+			name = Debug;
+		};
+		AB4DFD862DC8022A0063CDB8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = F834LV38QX;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Sullivan-Market-LLC.My-Catholic-PrayersUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "My Catholic Prayers";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AB4DFD572DC802280063CDB8 /* Build configuration list for PBXProject "My Catholic Prayers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB4DFD7C2DC8022A0063CDB8 /* Debug */,
+				AB4DFD7D2DC8022A0063CDB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AB4DFD7E2DC8022A0063CDB8 /* Build configuration list for PBXNativeTarget "My Catholic Prayers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB4DFD7F2DC8022A0063CDB8 /* Debug */,
+				AB4DFD802DC8022A0063CDB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AB4DFD812DC8022A0063CDB8 /* Build configuration list for PBXNativeTarget "My Catholic PrayersTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB4DFD822DC8022A0063CDB8 /* Debug */,
+				AB4DFD832DC8022A0063CDB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AB4DFD842DC8022A0063CDB8 /* Build configuration list for PBXNativeTarget "My Catholic PrayersUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB4DFD852DC8022A0063CDB8 /* Debug */,
+				AB4DFD862DC8022A0063CDB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AB4DFD542DC802280063CDB8 /* Project object */;
+}

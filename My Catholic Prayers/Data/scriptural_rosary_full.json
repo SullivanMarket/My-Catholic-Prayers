@@ -1,0 +1,202 @@
+[
+  {
+    "set": "Joyful",
+    "mysteries": [
+      {
+        "title": "The Annunciation",
+        "verses": [
+          {
+            "english": "The angel Gabriel was sent from God to a city of Galilee named Nazareth.",
+            "latin": "Missus est angelus Gabriel a Deo in civitatem Galilaeae, cui nomen Nazareth."
+          }
+        ]
+      },
+      {
+        "title": "The Visitation",
+        "verses": [
+          {
+            "english": "Elizabeth was filled with the Holy Spirit and exclaimed, 'Blessed are you among women!'",
+            "latin": "Repleta est Spiritu Sancto Elisabeth et exclamavit dicens: Benedicta tu inter mulieres!"
+          }
+        ]
+      },
+      {
+        "title": "The Nativity",
+        "verses": [
+          {
+            "english": "She gave birth to her firstborn son and laid him in a manger.",
+            "latin": "Et peperit filium suum primogenitum et reclinavit eum in praesepio."
+          }
+        ]
+      },
+      {
+        "title": "The Presentation",
+        "verses": [
+          {
+            "english": "They brought him up to Jerusalem to present him to the Lord.",
+            "latin": "Tulerunt illum in Jerusalem, ut sisterent eum Domino."
+          }
+        ]
+      },
+      {
+        "title": "The Finding in the Temple",
+        "verses": [
+          {
+            "english": "They found him in the temple, sitting among the teachers.",
+            "latin": "Invenerunt illum in templo sedentem in medio doctorum."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "set": "Sorrowful",
+    "mysteries": [
+      {
+        "title": "The Agony in the Garden",
+        "verses": [
+          {
+            "english": "He prayed, 'Father, if you are willing, remove this cup from me.'",
+            "latin": "Pater, si vis, transfer calicem istum a me."
+          }
+        ]
+      },
+      {
+        "title": "The Scourging at the Pillar",
+        "verses": [
+          {
+            "english": "Then Pilate took Jesus and had him scourged.",
+            "latin": "Tunc apprehendit Pilatus Iesum et flagellavit."
+          }
+        ]
+      },
+      {
+        "title": "The Crowning with Thorns",
+        "verses": [
+          {
+            "english": "They clothed him in a purple cloak and put a crown of thorns on his head.",
+            "latin": "Et circumponentes coronam spineam imposuerunt capiti eius."
+          }
+        ]
+      },
+      {
+        "title": "The Carrying of the Cross",
+        "verses": [
+          {
+            "english": "He went out, bearing his own cross.",
+            "latin": "Et bajulans sibi crucem exivit."
+          }
+        ]
+      },
+      {
+        "title": "The Crucifixion",
+        "verses": [
+          {
+            "english": "And they crucified him.",
+            "latin": "Et crucifixerunt eum."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "set": "Glorious",
+    "mysteries": [
+      {
+        "title": "The Resurrection",
+        "verses": [
+          {
+            "english": "He is not here; he has risen!",
+            "latin": "Non est hic; surrexit enim."
+          }
+        ]
+      },
+      {
+        "title": "The Ascension",
+        "verses": [
+          {
+            "english": "He was taken up into heaven and sat at the right hand of God.",
+            "latin": "Assumptus est in caelum, et sedit a dextris Dei."
+          }
+        ]
+      },
+      {
+        "title": "The Descent of the Holy Spirit",
+        "verses": [
+          {
+            "english": "They were all filled with the Holy Spirit.",
+            "latin": "Et repleti sunt omnes Spiritu Sancto."
+          }
+        ]
+      },
+      {
+        "title": "The Assumption of Mary",
+        "verses": [
+          {
+            "english": "A great sign appeared in heaven: a woman clothed with the sun.",
+            "latin": "Signum magnum apparuit in caelo: mulier amicta sole."
+          }
+        ]
+      },
+      {
+        "title": "The Coronation of Mary",
+        "verses": [
+          {
+            "english": "She is crowned Queen of Heaven and Earth.",
+            "latin": "Et coronata est regina caeli et terrae."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "set": "Luminous",
+    "mysteries": [
+      {
+        "title": "The Baptism in the Jordan",
+        "verses": [
+          {
+            "english": "This is my beloved Son, with whom I am well pleased.",
+            "latin": "Hic est Filius meus dilectus, in quo mihi complacui."
+          }
+        ]
+      },
+      {
+        "title": "The Wedding at Cana",
+        "verses": [
+          {
+            "english": "Do whatever he tells you.",
+            "latin": "Quodcumque dixerit vobis, facite."
+          }
+        ]
+      },
+      {
+        "title": "The Proclamation of the Kingdom",
+        "verses": [
+          {
+            "english": "Repent and believe in the Gospel.",
+            "latin": "Poenitemini et credite evangelio."
+          }
+        ]
+      },
+      {
+        "title": "The Transfiguration",
+        "verses": [
+          {
+            "english": "His face shone like the sun, and his clothes became white as light.",
+            "latin": "Resplenduit facies eius sicut sol, vestimenta autem eius facta sunt alba sicut nix."
+          }
+        ]
+      },
+      {
+        "title": "The Institution of the Eucharist",
+        "verses": [
+          {
+            "english": "This is my body, which is given for you.",
+            "latin": "Hoc est corpus meum, quod pro vobis tradetur."
+          }
+        ]
+      }
+    ]
+  }
+]
