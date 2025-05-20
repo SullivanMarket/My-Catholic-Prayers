@@ -1,3 +1,4 @@
+
 //
 //  SidebarView.swift
 //  My Catholic Prayers
@@ -37,6 +38,14 @@ struct SidebarView: View {
 
             Spacer()
 
+            // App Icon above Settings button
+            Image("AppIconSidebar", bundle: nil)
+                .resizable()
+                .aspectRatio(contentMode: .fit)
+                //.frame(width: 60, height: 60)
+                .clipShape(RoundedRectangle(cornerRadius: 12))
+                .padding(.bottom, 8)
+
             Button(action: { showingSettings.toggle() }) {
                 Label("Settings", systemImage: "gearshape")
                     .font(.headline)
@@ -64,7 +73,7 @@ struct SidebarView: View {
             Label(label, systemImage: systemImage)
                 .padding(8)
                 .frame(maxWidth: .infinity, alignment: .leading)
-                .contentShape(Rectangle())  // ✅ Ensures the full frame is tappable
+                .contentShape(Rectangle())
                 .background(
                     selection == value ? Color.accentColor.opacity(0.25) : Color.clear
                 )
