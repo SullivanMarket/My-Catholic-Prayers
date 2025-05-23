@@ -20,7 +20,8 @@ enum NavigationSection: Hashable {
     case rosaryHome
     case rosaryPrayers
     case rosary(RosarySection)
-    case divineMercy  // ✅ NEW
+    case divineMercy
+    case examination  // ✅ NEW
 
     static func == (lhs: NavigationSection, rhs: NavigationSection) -> Bool {
         switch (lhs, rhs) {
@@ -32,7 +33,8 @@ enum NavigationSection: Hashable {
              (.stations, .stations),
              (.rosaryHome, .rosaryHome),
              (.rosaryPrayers, .rosaryPrayers),
-             (.divineMercy, .divineMercy):  // ✅ NEW
+             (.divineMercy, .divineMercy),
+             (.examination, .examination):  // ✅ NEW
             return true
         case let (.psalm(a), .psalm(b)):
             return a.id == b.id
@@ -77,8 +79,10 @@ enum NavigationSection: Hashable {
         case .rosary(let section):
             hasher.combine("rosary")
             hasher.combine(section)
-        case .divineMercy:  // ✅ NEW
+        case .divineMercy:
             hasher.combine("divineMercy")
+        case .examination:  // ✅ NEW
+            hasher.combine("examination")
         }
     }
 }

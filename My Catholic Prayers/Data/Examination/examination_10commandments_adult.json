@@ -1,0 +1,406 @@
+{
+  "framework": "10commandments",
+  "role": "adult",
+  "sections": [
+    {
+      "title": "I am the Lord your God; you shall not have strange gods before me",
+      "questions": [
+        {
+          "id": "cmd_adult_0_0",
+          "text": "Have I placed anything above God\u2014success, money, pleasure, or comfort?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_0_1",
+          "text": "Have I made time for daily prayer and spiritual reading?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_0_2",
+          "text": "Have I trusted in God\u2019s will, even in difficulty?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_0_3",
+          "text": "Have I received the sacraments regularly with reverence?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_0_4",
+          "text": "Have I allowed busyness or distractions to replace my devotion?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_0_5",
+          "text": "Have I shown God\u2019s love to others in how I live?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_0_6",
+          "text": "Have I repented of times I\u2019ve doubted or turned from God?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not take the name of the Lord your God in vain",
+      "questions": [
+        {
+          "id": "cmd_adult_1_0",
+          "text": "Have I spoken God\u2019s name with reverence or used it carelessly?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_1_1",
+          "text": "Have I sworn false oaths or used holy names in anger or frustration?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_1_2",
+          "text": "Have I taken sacred things lightly or irreverently?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_1_3",
+          "text": "Have I been silent when others misused God\u2019s name?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_1_4",
+          "text": "Have I honored God in how I speak about my faith?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_1_5",
+          "text": "Have I taken my baptismal promises seriously?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_1_6",
+          "text": "Have I prayed with a sincere and loving heart?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Remember to keep holy the Lord\u2019s Day",
+      "questions": [
+        {
+          "id": "cmd_adult_2_0",
+          "text": "Have I attended Sunday Mass faithfully and on time?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_2_1",
+          "text": "Have I used Sundays to rest, worship, and renew my spirit?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_2_2",
+          "text": "Have I avoided unnecessary work and consumerism on Sunday?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_2_3",
+          "text": "Have I made Sunday different from other days?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_2_4",
+          "text": "Have I spent quality time with family or serving others on Sundays?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_2_5",
+          "text": "Have I encouraged others to honor the Lord\u2019s Day?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_2_6",
+          "text": "Have I treated Sunday as a gift rather than a burden?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Honor your father and your mother",
+      "questions": [
+        {
+          "id": "cmd_adult_3_0",
+          "text": "Have I shown respect and gratitude to my parents?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_3_1",
+          "text": "Have I helped and supported my parents when needed?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_3_2",
+          "text": "Have I been a peacemaker in my extended family?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_3_3",
+          "text": "Have I prayed for my parents, living and deceased?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_3_4",
+          "text": "Have I spoken respectfully about those in authority?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_3_5",
+          "text": "Have I honored those who raised or guided me?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_3_6",
+          "text": "Have I encouraged my children to love and respect their elders?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not kill",
+      "questions": [
+        {
+          "id": "cmd_adult_4_0",
+          "text": "Have I hurt others through anger, hatred, or harsh words?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_4_1",
+          "text": "Have I forgiven those who have wronged me?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_4_2",
+          "text": "Have I nurtured grudges or refused to reconcile?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_4_3",
+          "text": "Have I protected the dignity of life at all stages?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_4_4",
+          "text": "Have I supported or promoted peace and justice?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_4_5",
+          "text": "Have I harmed others emotionally or spiritually?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_4_6",
+          "text": "Have I respected the lives of the vulnerable and suffering?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not commit adultery",
+      "questions": [
+        {
+          "id": "cmd_adult_5_0",
+          "text": "Have I been faithful to my spouse in thought, word, and deed?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_5_1",
+          "text": "Have I respected the sacredness of marriage and sexuality?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_5_2",
+          "text": "Have I avoided impure media, conversations, and temptations?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_5_3",
+          "text": "Have I sought purity of heart and modesty in action?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_5_4",
+          "text": "Have I honored my body and others\u2019 as temples of the Holy Spirit?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_5_5",
+          "text": "Have I protected the emotional and spiritual bonds in my relationships?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_5_6",
+          "text": "Have I confessed and repented of any sins against chastity?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not steal",
+      "questions": [
+        {
+          "id": "cmd_adult_6_0",
+          "text": "Have I taken anything that did not belong to me?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_6_1",
+          "text": "Have I been honest in my work and business dealings?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_6_2",
+          "text": "Have I used time and resources responsibly and fairly?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_6_3",
+          "text": "Have I paid debts and returned what I borrowed?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_6_4",
+          "text": "Have I shared generously with those in need?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_6_5",
+          "text": "Have I supported my parish and charitable causes?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_6_6",
+          "text": "Have I modeled honesty and integrity in daily life?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not bear false witness against your neighbor",
+      "questions": [
+        {
+          "id": "cmd_adult_7_0",
+          "text": "Have I told the truth even when it was difficult?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_7_1",
+          "text": "Have I avoided gossip, slander, or detraction?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_7_2",
+          "text": "Have I spoken kindly and fairly about others?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_7_3",
+          "text": "Have I judged others without knowing the facts?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_7_4",
+          "text": "Have I corrected lies or misunderstandings I helped create?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_7_5",
+          "text": "Have I honored others\u2019 reputations and privacy?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_7_6",
+          "text": "Have I apologized for dishonest or harmful words?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not covet your neighbor\u2019s wife",
+      "questions": [
+        {
+          "id": "cmd_adult_8_0",
+          "text": "Have I entertained lustful thoughts or fantasies?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_8_1",
+          "text": "Have I envied others\u2019 relationships or affections?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_8_2",
+          "text": "Have I flirted or acted inappropriately with others?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_8_3",
+          "text": "Have I kept proper emotional and physical boundaries?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_8_4",
+          "text": "Have I nurtured love and appreciation for my spouse?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_8_5",
+          "text": "Have I respected others\u2019 marriages and relationships?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_8_6",
+          "text": "Have I turned to God for healing and strength in temptation?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not covet your neighbor\u2019s goods",
+      "questions": [
+        {
+          "id": "cmd_adult_9_0",
+          "text": "Have I been grateful for what I have?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_9_1",
+          "text": "Have I compared myself with others in envy?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_9_2",
+          "text": "Have I been content or constantly wanted more?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_9_3",
+          "text": "Have I valued people over possessions?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_9_4",
+          "text": "Have I praised God for the blessings others receive?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_9_5",
+          "text": "Have I practiced simplicity and stewardship?",
+          "checked": false
+        },
+        {
+          "id": "cmd_adult_9_6",
+          "text": "Have I trusted that God provides what I need?",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}

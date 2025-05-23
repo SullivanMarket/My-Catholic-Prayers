@@ -1,4 +1,3 @@
-
 //
 //  SidebarView.swift
 //  My Catholic Prayers
@@ -30,6 +29,7 @@ struct SidebarView: View {
                     sidebarButton(label: "The Divine Mercy Chaplet", systemImage: "heart", value: .divineMercy)
                     sidebarButton(label: "General Prayers", systemImage: "book", value: .rosaryPrayers)
                     sidebarButton(label: "Favorites", systemImage: "heart", value: .favorites)
+                    sidebarButton(label: "Examination of Conscience", systemImage: "checklist.checked", value: .examination) // 🆕 Added
                 }
             }
             .listStyle(.sidebar)

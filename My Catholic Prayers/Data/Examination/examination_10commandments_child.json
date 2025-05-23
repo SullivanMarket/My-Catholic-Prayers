@@ -1,0 +1,406 @@
+{
+  "framework": "10commandments",
+  "role": "child",
+  "sections": [
+    {
+      "title": "I am the Lord your God; you shall not have strange gods before me",
+      "questions": [
+        {
+          "id": "cmd_child_0_0",
+          "text": "Have I prayed to God every day?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_0_1",
+          "text": "Have I remembered that God loves me always?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_0_2",
+          "text": "Have I talked to God only when I wanted something?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_0_3",
+          "text": "Have I made other things more important than God (like games or toys)?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_0_4",
+          "text": "Have I trusted God when I was scared or sad?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_0_5",
+          "text": "Have I thanked God for my blessings?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_0_6",
+          "text": "Have I learned about God with love and joy?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not take the name of the Lord your God in vain",
+      "questions": [
+        {
+          "id": "cmd_child_1_0",
+          "text": "Have I said God\u2019s name with respect?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_1_1",
+          "text": "Have I used God's name in a joke or when I was mad?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_1_2",
+          "text": "Have I reminded others to speak kindly about God?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_1_3",
+          "text": "Have I made fun of holy things or church?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_1_4",
+          "text": "Have I said prayers with a loving heart?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_1_5",
+          "text": "Have I stayed quiet when others used God\u2019s name wrongly?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_1_6",
+          "text": "Have I been careful with how I talk about Jesus and Mary?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Remember to keep holy the Lord\u2019s Day",
+      "questions": [
+        {
+          "id": "cmd_child_2_0",
+          "text": "Have I gone to Mass on Sundays with my family?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_2_1",
+          "text": "Have I paid attention and prayed at Mass?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_2_2",
+          "text": "Have I been happy to go to church or complained about it?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_2_3",
+          "text": "Have I used Sundays to rest and spend time with my family?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_2_4",
+          "text": "Have I made Sunday special by being extra kind?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_2_5",
+          "text": "Have I thought about Jesus on His special day?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_2_6",
+          "text": "Have I used Sunday to grow closer to God?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Honor your father and your mother",
+      "questions": [
+        {
+          "id": "cmd_child_3_0",
+          "text": "Have I obeyed my parents the first time they asked?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_3_1",
+          "text": "Have I talked respectfully to my parents and teachers?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_3_2",
+          "text": "Have I said 'please' and 'thank you' often?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_3_3",
+          "text": "Have I helped at home with a cheerful heart?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_3_4",
+          "text": "Have I thanked my parents for what they do for me?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_3_5",
+          "text": "Have I prayed for my family?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_3_6",
+          "text": "Have I made life at home more peaceful and happy?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not kill",
+      "questions": [
+        {
+          "id": "cmd_child_4_0",
+          "text": "Have I been kind to others and avoided hurting anyone?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_4_1",
+          "text": "Have I used my hands or words to hurt someone?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_4_2",
+          "text": "Have I held a grudge or refused to forgive?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_4_3",
+          "text": "Have I spoken nicely to brothers, sisters, and classmates?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_4_4",
+          "text": "Have I helped someone who was sad or left out?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_4_5",
+          "text": "Have I remembered that all people are made by God?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_4_6",
+          "text": "Have I said sorry when I hurt someone?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not commit adultery",
+      "questions": [
+        {
+          "id": "cmd_child_5_0",
+          "text": "Have I remembered that my body is a gift from God?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_5_1",
+          "text": "Have I respected others' bodies and personal space?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_5_2",
+          "text": "Have I kept my thoughts and words pure and kind?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_5_3",
+          "text": "Have I watched or listened to things I shouldn\u2019t?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_5_4",
+          "text": "Have I talked about private things in a wrong way?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_5_5",
+          "text": "Have I asked God to help me be pure and holy?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_5_6",
+          "text": "Have I acted in a way that makes Jesus proud?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not steal",
+      "questions": [
+        {
+          "id": "cmd_child_6_0",
+          "text": "Have I taken anything that didn\u2019t belong to me?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_6_1",
+          "text": "Have I returned things I borrowed?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_6_2",
+          "text": "Have I shared my toys and treats?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_6_3",
+          "text": "Have I been honest even when it was hard?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_6_4",
+          "text": "Have I used other people's things with care?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_6_5",
+          "text": "Have I helped others take care of their things?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_6_6",
+          "text": "Have I said thank you when someone shared with me?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not bear false witness against your neighbor",
+      "questions": [
+        {
+          "id": "cmd_child_7_0",
+          "text": "Have I told the truth even when it was hard?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_7_1",
+          "text": "Have I lied to get out of trouble or to look good?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_7_2",
+          "text": "Have I gossiped or told secrets I shouldn\u2019t?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_7_3",
+          "text": "Have I hurt others by what I said about them?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_7_4",
+          "text": "Have I fixed things when I said something untrue?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_7_5",
+          "text": "Have I spoken kindly even when others did not?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_7_6",
+          "text": "Have I kept my promises?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not covet your neighbor\u2019s wife",
+      "questions": [
+        {
+          "id": "cmd_child_8_0",
+          "text": "Have I been happy for others and their friendships?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_8_1",
+          "text": "Have I been jealous when others got attention or love?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_8_2",
+          "text": "Have I shared my friends instead of keeping them to myself?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_8_3",
+          "text": "Have I tried to love my family as they are?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_8_4",
+          "text": "Have I thanked God for the people who love me?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_8_5",
+          "text": "Have I remembered that love is not a competition?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_8_6",
+          "text": "Have I prayed for families who need more love?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not covet your neighbor\u2019s goods",
+      "questions": [
+        {
+          "id": "cmd_child_9_0",
+          "text": "Have I been jealous of others\u2019 toys, clothes, or homes?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_9_1",
+          "text": "Have I been greedy or always wanted more?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_9_2",
+          "text": "Have I been thankful for what I have?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_9_3",
+          "text": "Have I celebrated others\u2019 blessings with joy?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_9_4",
+          "text": "Have I shared with others without complaining?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_9_5",
+          "text": "Have I been happy with simple things?",
+          "checked": false
+        },
+        {
+          "id": "cmd_child_9_6",
+          "text": "Have I remembered that people are more important than things?",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}

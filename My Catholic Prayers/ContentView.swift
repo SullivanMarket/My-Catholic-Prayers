@@ -85,16 +85,20 @@ struct ContentView: View {
                     case .divineMercy:
                         DivineMercyChapletView()
 
+                    case .examination:
+                        ExaminationSelectorView()  // ✅ ADDED HERE
+
                     case nil:
                         Text("Select an item from the sidebar.")
                             .italic()
                     }
                 }
-                // ✅ Must be inside NavigationStack to compile correctly
                 .navigationDestination(for: NavigationSection.self) { section in
                     switch section {
                     case .rosary(let section):
                         RosaryDetailView(section: section)
+                    case .examination:
+                        ExaminationSelectorView() // ✅ ADDED HERE TOO
                     default:
                         EmptyView()
                     }

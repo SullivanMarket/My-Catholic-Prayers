@@ -1,0 +1,391 @@
+{
+  "framework": "virtuesvices",
+  "role": "adult",
+  "sections": [
+    {
+      "title": "Charity vs. Envy",
+      "questions": [
+        {
+          "id": "vv_adult_charity_1",
+          "text": "Have I felt joy at others' failures or jealousy at their success?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_charity_2",
+          "text": "Have I loved others selflessly, even when it is inconvenient?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_charity_3",
+          "text": "Have I compared myself to others in a way that led to resentment?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_charity_4",
+          "text": "Have I refused to rejoice in another\u2019s blessings?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_charity_5",
+          "text": "Have I judged others instead of offering compassion?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_charity_6",
+          "text": "Have I spoken negatively about others out of jealousy?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_charity_7",
+          "text": "Have I failed to assist someone in need when I had the means?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_charity_8",
+          "text": "Have I withheld encouragement or praise?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_charity_9",
+          "text": "Have I been overly focused on myself in relationships?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_charity_10",
+          "text": "Have I resented someone else's spiritual growth or conversion?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Diligence vs. Sloth",
+      "questions": [
+        {
+          "id": "vv_adult_diligence_1",
+          "text": "Have I avoided duties I know I should complete?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_diligence_2",
+          "text": "Have I been lazy in prayer, work, or service?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_diligence_3",
+          "text": "Have I procrastinated habitually?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_diligence_4",
+          "text": "Have I let distractions take priority over what matters?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_diligence_5",
+          "text": "Have I given minimal effort in tasks I\u2019ve committed to?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_diligence_6",
+          "text": "Have I failed to use my gifts to serve others?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_diligence_7",
+          "text": "Have I wasted time on idle entertainment?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_diligence_8",
+          "text": "Have I neglected responsibilities to family or faith?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_diligence_9",
+          "text": "Have I failed to seek improvement in areas of weakness?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_diligence_10",
+          "text": "Have I ignored opportunities to grow in virtue?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Chastity vs. Lust",
+      "questions": [
+        {
+          "id": "vv_adult_chastity_1",
+          "text": "Have I entertained impure thoughts or desires?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_chastity_2",
+          "text": "Have I viewed media that promotes lust?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_chastity_3",
+          "text": "Have I used others for emotional or physical gratification?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_chastity_4",
+          "text": "Have I respected the dignity of my spouse or others?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_chastity_5",
+          "text": "Have I pursued relationships with purity and love?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_chastity_6",
+          "text": "Have I confessed temptations or sins against chastity?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_chastity_7",
+          "text": "Have I fostered self-control in speech and behavior?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_chastity_8",
+          "text": "Have I avoided occasions of sin?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_chastity_9",
+          "text": "Have I prayed for purity and integrity?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_chastity_10",
+          "text": "Have I upheld the virtue of chastity in dating or marriage?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Temperance vs. Gluttony",
+      "questions": [
+        {
+          "id": "vv_adult_temperance_1",
+          "text": "Have I eaten or drunk to excess?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_temperance_2",
+          "text": "Have I indulged in comforts at the expense of others?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_temperance_3",
+          "text": "Have I used food, drink, or pleasures to avoid emotional discomfort?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_temperance_4",
+          "text": "Have I practiced moderation in spending, speaking, or eating?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_temperance_5",
+          "text": "Have I fasted or practiced sacrifice in any form?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_temperance_6",
+          "text": "Have I sought fulfillment in pleasure over God?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_temperance_7",
+          "text": "Have I wasted resources on non-essentials?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_temperance_8",
+          "text": "Have I modeled temperance for others?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_temperance_9",
+          "text": "Have I prioritized health and balance in my habits?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_temperance_10",
+          "text": "Have I turned to God instead of comfort for peace?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Patience vs. Wrath",
+      "questions": [
+        {
+          "id": "vv_adult_patience_1",
+          "text": "Have I lost my temper quickly or often?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_patience_2",
+          "text": "Have I nurtured resentment or unforgiveness?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_patience_3",
+          "text": "Have I spoken harshly to others in anger?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_patience_4",
+          "text": "Have I held onto bitterness or sought revenge?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_patience_5",
+          "text": "Have I responded with patience to others\u2019 faults?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_patience_6",
+          "text": "Have I prayed for peace when angry or upset?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_patience_7",
+          "text": "Have I modeled calm and gentleness in conflict?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_patience_8",
+          "text": "Have I acknowledged the dignity of those who wronged me?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_patience_9",
+          "text": "Have I taken time to understand others before reacting?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_patience_10",
+          "text": "Have I confessed when anger led me to sin?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Kindness vs. Greed",
+      "questions": [
+        {
+          "id": "vv_adult_kindness_1",
+          "text": "Have I put my possessions ahead of people?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_kindness_2",
+          "text": "Have I shared freely with those in need?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_kindness_3",
+          "text": "Have I envied the wealth or success of others?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_kindness_4",
+          "text": "Have I hoarded material things out of fear?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_kindness_5",
+          "text": "Have I used resources to benefit others and the Church?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_kindness_6",
+          "text": "Have I shown hospitality to others?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_kindness_7",
+          "text": "Have I given my time generously without expecting return?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_kindness_8",
+          "text": "Have I tithed or supported charities consistently?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_kindness_9",
+          "text": "Have I chosen service over selfishness?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_kindness_10",
+          "text": "Have I trusted God with financial needs?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Humility vs. Pride",
+      "questions": [
+        {
+          "id": "vv_adult_humility_1",
+          "text": "Have I thought myself better than others?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_humility_2",
+          "text": "Have I sought praise or recognition excessively?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_humility_3",
+          "text": "Have I accepted correction with grace?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_humility_4",
+          "text": "Have I acknowledged my sins and limitations?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_humility_5",
+          "text": "Have I served in hidden ways without complaint?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_humility_6",
+          "text": "Have I judged others harshly?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_humility_7",
+          "text": "Have I listened with openness to differing views?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_humility_8",
+          "text": "Have I confessed dependence on God and others?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_humility_9",
+          "text": "Have I focused more on giving than receiving credit?",
+          "checked": false
+        },
+        {
+          "id": "vv_adult_humility_10",
+          "text": "Have I thanked God for gifts rather than boasting of them?",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}

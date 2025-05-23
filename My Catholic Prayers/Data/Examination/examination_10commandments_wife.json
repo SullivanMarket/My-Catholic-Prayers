@@ -1,0 +1,406 @@
+{
+  "framework": "10commandments",
+  "role": "wife",
+  "sections": [
+    {
+      "title": "I am the Lord your God; you shall not have strange gods before me",
+      "questions": [
+        {
+          "id": "cmd_wife_0_0",
+          "text": "Have I placed anything or anyone above God in my life?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_0_1",
+          "text": "Have I trusted more in myself or others than in God's will?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_0_2",
+          "text": "Have I neglected daily prayer or time with God?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_0_3",
+          "text": "Have I doubted God's love or plan for my family?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_0_4",
+          "text": "Have I made idols of success, appearance, or control?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_0_5",
+          "text": "Have I failed to teach my children about God?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_0_6",
+          "text": "Have I sought comfort in things more than in the Lord?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not take the name of the Lord your God in vain",
+      "questions": [
+        {
+          "id": "cmd_wife_1_0",
+          "text": "Have I spoken disrespectfully about God or holy things?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_1_1",
+          "text": "Have I used God's name casually or in frustration?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_1_2",
+          "text": "Have I stayed silent when others used God's name disrespectfully?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_1_3",
+          "text": "Have I taken oaths or promises lightly?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_1_4",
+          "text": "Have I prayed without sincerity or focus?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_1_5",
+          "text": "Have I mocked religious practices or sacred things?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_1_6",
+          "text": "Have I allowed media or conversations that misuse God's name?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Remember to keep holy the Lord\u2019s Day",
+      "questions": [
+        {
+          "id": "cmd_wife_2_0",
+          "text": "Have I attended Mass every Sunday unless seriously prevented?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_2_1",
+          "text": "Have I encouraged my family to honor the Lord\u2019s Day?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_2_2",
+          "text": "Have I avoided unnecessary work and focused on rest?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_2_3",
+          "text": "Have I used Sunday as a day of prayer, joy, and family?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_2_4",
+          "text": "Have I treated Sunday as just another busy day?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_2_5",
+          "text": "Have I helped my children understand why Sunday is special?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_2_6",
+          "text": "Have I made time for personal and family worship?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Honor your father and your mother",
+      "questions": [
+        {
+          "id": "cmd_wife_3_0",
+          "text": "Have I spoken respectfully about my parents and in-laws?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_3_1",
+          "text": "Have I been patient and forgiving with family disagreements?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_3_2",
+          "text": "Have I taught my children to honor their elders?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_3_3",
+          "text": "Have I helped care for my aging parents when needed?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_3_4",
+          "text": "Have I let bitterness or unresolved issues linger?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_3_5",
+          "text": "Have I honored the wisdom and sacrifices of my parents?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_3_6",
+          "text": "Have I encouraged my spouse to maintain family peace?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not kill",
+      "questions": [
+        {
+          "id": "cmd_wife_4_0",
+          "text": "Have I nurtured anger, resentment, or harsh judgment?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_4_1",
+          "text": "Have I spoken hurtful or cutting words to my husband or children?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_4_2",
+          "text": "Have I forgiven others fully and sincerely?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_4_3",
+          "text": "Have I damaged another\u2019s reputation with gossip or criticism?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_4_4",
+          "text": "Have I promoted peace in my home and community?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_4_5",
+          "text": "Have I prayed for enemies or those who offend me?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_4_6",
+          "text": "Have I respected all life from conception to natural death?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not commit adultery",
+      "questions": [
+        {
+          "id": "cmd_wife_5_0",
+          "text": "Have I been faithful to my husband in thought and action?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_5_1",
+          "text": "Have I entertained inappropriate relationships or fantasies?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_5_2",
+          "text": "Have I upheld the dignity of marriage publicly and privately?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_5_3",
+          "text": "Have I avoided media that tempts impurity or lust?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_5_4",
+          "text": "Have I respected intimacy as a sacred gift?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_5_5",
+          "text": "Have I cultivated emotional purity in friendships?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_5_6",
+          "text": "Have I supported others in living a chaste married life?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not steal",
+      "questions": [
+        {
+          "id": "cmd_wife_6_0",
+          "text": "Have I taken anything that does not belong to me?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_6_1",
+          "text": "Have I been honest with finances in the family and community?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_6_2",
+          "text": "Have I misused resources or wasted time?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_6_3",
+          "text": "Have I taught my children about honesty and stewardship?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_6_4",
+          "text": "Have I given my fair share to Church and charity?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_6_5",
+          "text": "Have I failed to return borrowed items or repay debts?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_6_6",
+          "text": "Have I respected my spouse's and others\u2019 property?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not bear false witness against your neighbor",
+      "questions": [
+        {
+          "id": "cmd_wife_7_0",
+          "text": "Have I lied or misled my spouse or others?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_7_1",
+          "text": "Have I gossiped or spoken negatively about others?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_7_2",
+          "text": "Have I judged others without full understanding?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_7_3",
+          "text": "Have I protected the dignity of others in speech?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_7_4",
+          "text": "Have I taught my children the value of honesty?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_7_5",
+          "text": "Have I respected others\u2019 privacy?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_7_6",
+          "text": "Have I sought truth and reconciliation in conflict?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not covet your neighbor\u2019s wife",
+      "questions": [
+        {
+          "id": "cmd_wife_8_0",
+          "text": "Have I desired someone else\u2019s relationship or affection?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_8_1",
+          "text": "Have I compared my marriage to others with jealousy?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_8_2",
+          "text": "Have I nurtured emotional or romantic fantasies about others?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_8_3",
+          "text": "Have I been grateful for my husband\u2019s love and presence?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_8_4",
+          "text": "Have I supported other women in their vocations and marriages?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_8_5",
+          "text": "Have I guarded my heart from discontent or romanticism?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_8_6",
+          "text": "Have I turned to God to fulfill my emotional needs?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "You shall not covet your neighbor\u2019s goods",
+      "questions": [
+        {
+          "id": "cmd_wife_9_0",
+          "text": "Have I envied others\u2019 homes, clothes, vacations, or possessions?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_9_1",
+          "text": "Have I pressured my family for more than we need?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_9_2",
+          "text": "Have I been wasteful or greedy?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_9_3",
+          "text": "Have I forgotten to be content with what God has given us?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_9_4",
+          "text": "Have I placed too much value on material things?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_9_5",
+          "text": "Have I modeled gratitude over desire in front of my children?",
+          "checked": false
+        },
+        {
+          "id": "cmd_wife_9_6",
+          "text": "Have I rejoiced in others' blessings without envy?",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}

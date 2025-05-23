@@ -1,0 +1,391 @@
+{
+  "framework": "virtuesvices",
+  "role": "priest",
+  "sections": [
+    {
+      "title": "Charity vs. Envy",
+      "questions": [
+        {
+          "id": "vv_priest_0_0",
+          "text": "Have I rejoiced in the success and holiness of brother priests?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_0_1",
+          "text": "Have I shown compassion to the suffering without judgment?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_0_2",
+          "text": "Have I spoken charitably about others, especially parishioners?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_0_3",
+          "text": "Have I served the poor and marginalized with genuine love?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_0_4",
+          "text": "Have I acted out of love rather than obligation?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_0_5",
+          "text": "Have I avoided feelings of envy when comparing my ministry?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_0_6",
+          "text": "Have I encouraged vocations generously without pride?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_0_7",
+          "text": "Have I welcomed others\u2019 gifts in the Church with humility?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_0_8",
+          "text": "Have I loved the flock entrusted to me with tenderness?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_0_9",
+          "text": "Have I asked the Lord to increase true charity in my heart?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Diligence vs. Sloth",
+      "questions": [
+        {
+          "id": "vv_priest_1_0",
+          "text": "Have I prepared well for homilies, sacraments, and duties?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_1_1",
+          "text": "Have I avoided spiritual laziness in prayer or formation?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_1_2",
+          "text": "Have I been available to the faithful when needed?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_1_3",
+          "text": "Have I made time for the sick, elderly, or those in need?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_1_4",
+          "text": "Have I been faithful to daily responsibilities and obligations?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_1_5",
+          "text": "Have I avoided distractions during office hours or pastoral work?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_1_6",
+          "text": "Have I shown consistency in prayer and the Liturgy of the Hours?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_1_7",
+          "text": "Have I pursued excellence in my ministry for the glory of God?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_1_8",
+          "text": "Have I been attentive in confessions and spiritual direction?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_1_9",
+          "text": "Have I asked the Holy Spirit to energize my priestly zeal?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Chastity vs. Lust",
+      "questions": [
+        {
+          "id": "vv_priest_2_0",
+          "text": "Have I maintained custody of the eyes and purity of thoughts?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_2_1",
+          "text": "Have I entertained impure thoughts or used inappropriate media?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_2_2",
+          "text": "Have I kept appropriate boundaries with others?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_2_3",
+          "text": "Have I respected celibacy with a joyful and free heart?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_2_4",
+          "text": "Have I spoken about chastity as a gift, not a burden?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_2_5",
+          "text": "Have I modeled holy friendship rooted in Christ?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_2_6",
+          "text": "Have I avoided situations that invite temptation?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_2_7",
+          "text": "Have I confessed and repented quickly when I\u2019ve failed?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_2_8",
+          "text": "Have I prayed for purity and grace in daily life?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_2_9",
+          "text": "Have I sought spiritual support and accountability?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Patience vs. Wrath",
+      "questions": [
+        {
+          "id": "vv_priest_3_0",
+          "text": "Have I responded to conflict calmly and with prayer?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_3_1",
+          "text": "Have I shown patience with staff, volunteers, and parishioners?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_3_2",
+          "text": "Have I been forgiving when criticized or disrespected?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_3_3",
+          "text": "Have I corrected others with love, not anger?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_3_4",
+          "text": "Have I handled setbacks or misunderstandings prayerfully?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_3_5",
+          "text": "Have I avoided gossip or harsh judgment when wronged?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_3_6",
+          "text": "Have I prayed for difficult people in my care?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_3_7",
+          "text": "Have I trusted God\u2019s timing over my own frustration?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_3_8",
+          "text": "Have I modeled calm leadership under pressure?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_3_9",
+          "text": "Have I asked forgiveness when I acted in anger?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Kindness vs. Greed",
+      "questions": [
+        {
+          "id": "vv_priest_4_0",
+          "text": "Have I lived simply and detached from materialism?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_4_1",
+          "text": "Have I been generous with my time, attention, and presence?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_4_2",
+          "text": "Have I avoided comfort-seeking that hinders my ministry?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_4_3",
+          "text": "Have I served others joyfully without counting the cost?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_4_4",
+          "text": "Have I shared my blessings with the poor or overlooked?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_4_5",
+          "text": "Have I welcomed others into the Church with warmth?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_4_6",
+          "text": "Have I used Church resources responsibly and humbly?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_4_7",
+          "text": "Have I offered spiritual help without expecting thanks?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_4_8",
+          "text": "Have I treated those with less influence with equal dignity?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_4_9",
+          "text": "Have I shown that kindness flows from Christ\u2019s love in me?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Temperance vs. Gluttony",
+      "questions": [
+        {
+          "id": "vv_priest_5_0",
+          "text": "Have I used food, drink, or leisure in moderation?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_5_1",
+          "text": "Have I modeled temperance in speech and habits?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_5_2",
+          "text": "Have I avoided excess in entertainment, rest, or technology?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_5_3",
+          "text": "Have I practiced fasting and mortification with devotion?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_5_4",
+          "text": "Have I resisted indulgence in comforts that distract from God?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_5_5",
+          "text": "Have I helped others grow in temperance by example?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_5_6",
+          "text": "Have I honored Sundays and days of fasting well?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_5_7",
+          "text": "Have I been intentional with how I spend time and money?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_5_8",
+          "text": "Have I offered sacrifice for the people I serve?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_5_9",
+          "text": "Have I embraced simplicity as a witness to the Gospel?",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "title": "Humility vs. Pride",
+      "questions": [
+        {
+          "id": "vv_priest_6_0",
+          "text": "Have I boasted about my ministry or accomplishments?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_6_1",
+          "text": "Have I served quietly without seeking praise or control?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_6_2",
+          "text": "Have I submitted to Church authority with trust?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_6_3",
+          "text": "Have I welcomed fraternal correction with openness?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_6_4",
+          "text": "Have I given glory to God for all good I have done?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_6_5",
+          "text": "Have I avoided clericalism and sought to be a servant?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_6_6",
+          "text": "Have I admitted my limits and asked for help?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_6_7",
+          "text": "Have I placed others' needs before my preferences?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_6_8",
+          "text": "Have I listened with the heart of Christ the Good Shepherd?",
+          "checked": false
+        },
+        {
+          "id": "vv_priest_6_9",
+          "text": "Have I prayed daily for humility and holiness?",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}
